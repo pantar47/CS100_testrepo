@@ -1,2 +1,3 @@
 This is new file from repo.
 My name is Pantar.
+Today we learned remote git.git
